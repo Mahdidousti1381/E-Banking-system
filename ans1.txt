@@ -1,0 +1,13 @@
+1
+OK
+10000.00
+OK
+26500.00
+Invalid short-term deposit
+Not enough money
+1
+Not enough money
+OK
+30000.00
+OK
+140000.00
